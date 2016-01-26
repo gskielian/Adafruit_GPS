@@ -2,8 +2,9 @@
 
 We're making slight modifications to adapt this to a pollution geostamping drone.
 
-List of Mods and Settings:
+## List of Mods and Settings:
 
+* using/modding the parsing.pde example which is compatible with Arduino Nano
 * minifying code for sample time, altitude, latitude, and longitude
 * using this without interrupts -- and will merge with other libraries
 
