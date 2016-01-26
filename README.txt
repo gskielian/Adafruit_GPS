@@ -1,3 +1,22 @@
+## Drone Sampler GPS
+
+We're making slight modifications to adapt this to a pollution geostamping drone.
+
+List of Mods and Settings:
+
+* minifying code for sample time, altitude, latitude, and longitude
+* using this without interrupts -- and will merge with other libraries
+
+## Connections
+
+1. Connect TX of the GPS module to Digital 3
+2. Connect RX of the GPS module to Digital 2
+3. Connect VCC and Gnd to 5v and GND respectively
+
+
+## Many Thanks to Adafruit for Open Sourcing this :D
+
+
 This is the Adafruit GPS library - the ultimate GPS library
 for the ultimate GPS module!
 
